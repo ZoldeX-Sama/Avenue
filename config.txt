@@ -1,6 +1,6 @@
-﻿token=التوكن 
-owner=ادي بتعك 
-prefix= t
-game= !thelp
+token=NTgzMzg1NjYxMzgyNDU5NDM5.XO7miw.8BOSLDkbh0i7NB8Bu-ty02eEzTA 
+owner=530914058526916611 
+prefix= Av
+game= Avplay
 stayinchannel=true
 songinstatus=true 
